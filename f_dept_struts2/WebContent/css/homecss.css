@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Montserrat', sans-serif;
+}
+.main-title{font-size:22px;font-weight:bold;background:#3C4049;margin-bottom:20px;color:#fff;border-radius:5px;padding:5px 10px;}
+.main-title i{margin-right:16px;}
+.talbe-tile{font-size:22px;font-weight:bold;background:#0082bf;margin-bottom:20px;color:#400040;border-radius:5px;padding:5px 10px;}
+.talbe-tile i{margin-right:16px;}
+.board{text-align:center;/* border:1px solid #ccc; */border-radius:5px;height:64px;margin-right:10px;font-size:16px;font-weight:bold;color:#007b7b;background:#ffd0a2}
+.col-md-3 .board:last-child {margin-right:0px;}
+.board span{font-size:27px;color:#4A515B;margin-bottom:12px;font-weight:bold;}
+.right_text{text-align:center;}
+.col-md-9 table{border:1px solid #97dbea;border-radius:5px; font-size:18px;text-align:center;margin:0 auto;width:100%;}
+.col-md-9 table tr{border-top:1px solid #97dbea;}
+.col-md-9 table td,th{padding:5px 10px;}
+.col-md-9 table thead{background:#8dc7c7;}
+/* table tbody{height:100px;overflow-y:scroll;display:block;width:100%} */
+.col-md-9 .table-foot{float:right;color:#838383;font-size:12px;margin:10px 0px;}
+.col-md-9 table tr:hover{background:#0080bd}
+.col-md-9 table tr:nth-child(odd){background:}
+.col-md-9 table tr:nth-child(even){background:#efefef}
+
+.user{line-height:20px;font:7px/17px YouYuan;text-align:right;background:#e3e3c8;}
+.user span{color:#0080c0}
+.divider{background:#ccb5c7;height:1px;margin-top:10px;margin-bottom:10px;width:100%;}
+.hour-data {font:15px/25px KaiTi;background:#e4e4e4}
+.data-h{text-align:center;font-weight:bold;}
+.parti-data {text-align:left;font-weight:}

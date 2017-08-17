@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+html,body{ 
+margin:0px; 
+height:100%; 
+}
+
+img{margin-top:-12px;}
+.header{margin-left:20%;margin-top:5%;}
+.loginform>form,
+.tips {margin-left:40%;margin-top:5%;}
+
+.header>span{padding-left:10px;font-size:30px; color:#000040; line-height:1.4;font-family:微软雅黑;}
+.loginform{background:#0080c0;height:50%;}
+#myTabs>li{margin-top:5%;}
+.tab-pane{margin-top:20px;}
+
+ul li a{color:#400000}
+#second>label{color:white;font-weight:normal}
+input,label,ul>li>a{font-size:18px;line-height:1.5;}
+
+.btn,label{width:210px;}

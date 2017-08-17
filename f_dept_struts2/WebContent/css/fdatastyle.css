@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+html,body{ 
+margin:0px; 
+height:100%; 
+} 
+.body-left,
+.body-right{float:left;margin:10% 0;}
+
+.body-left{margin-left:2%;width:16%;background:#c0c0c0;height:40%;}
+/* .body-left>button{margin:;display:block;}
+.body-left>button:first-child{margin-top:150px;margin-bottom:80px;}
+.body-left>button:last-child{position:relative;}  */
+
+.body-right{background:#0080c0;margin-left:10%}
+
+select,button{margin-left:10%;margin-top:20%;}
+.form-control{width:80%;}
+
+.table>tbody>tr>td{text-align:center;}

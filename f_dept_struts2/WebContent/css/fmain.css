@@ -16,9 +16,9 @@ a,a:hover {
 .nav-menu{font-size:20px;font-family:宋体;background:#ff8080;height:50px;}
 .nav-menu>ul{position:relative;list-style:none;height:50px;width:80%;margin-left:10%}
 
-.nav-menu>ul>li{float:left;text-align:center;width:30%;list-style:none;}
+.nav-menu>ul>li{float:left;width:30%;list-style:none;}
 .nav-menu>ul>li>ul{display:none;list-style:none;position: absolute;left: 25%;background: #006da2;}
-.nav-menu>ul>li>a {color:#f7f7f7;line-height:47px;font-family:Microsoft YaHei;text-decoration:none;}
+.nav-menu>ul>li>a {color:#f7f7f7;line-height:47px;font-family:Microsoft YaHei;text-decoration:none;text-align:center;}
 .nav-menu>ul>li>a:hover{background: #ff8000;}
 
 .nav-menu>ul>li>ul>li{float:left;padding:20px 10px;}
